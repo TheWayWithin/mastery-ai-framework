@@ -1,0 +1,84 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mastery-ai"
+version = "0.1.0"
+description = "A comprehensive AI optimization assessment framework with 148 atomic factors across 8 pillars"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "TheWayWithin"},
+]
+maintainers = [
+    {name = "TheWayWithin"},
+]
+keywords = [
+    "AI optimization",
+    "assessment framework",
+    "MASTERY-AI",
+    "AI evaluation",
+    "content optimization",
+    "LLMs.txt",
+    "MCP integration",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/TheWayWithin/mastery-ai-framework"
+Repository = "https://github.com/TheWayWithin/mastery-ai-framework"
+Documentation = "https://github.com/TheWayWithin/mastery-ai-framework/wiki"
+"Bug Tracker" = "https://github.com/TheWayWithin/mastery-ai-framework/issues"
+
+[tool.setuptools]
+packages = ["mastery_ai"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --cov=mastery_ai --cov-report=term-missing --cov-report=html"
+
+[tool.black]
+line-length = 100
+target-version = ['py38', 'py39', 'py310', 'py311']
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.git
+  | \.venv
+  | build
+  | dist
+)/
+'''
+
+[tool.isort]
+profile = "black"
+line_length = 100
+
+[tool.mypy]
+python_version = "3.8"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_any_unimported = false
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_no_return = true
+check_untyped_defs = true
+strict_equality = true
