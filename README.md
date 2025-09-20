@@ -1,10 +1,10 @@
 # MASTERY-AI Framework
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![Framework Version](https://img.shields.io/badge/framework-v3.1.1-green)](https://github.com/TheWayWithin/mastery-ai-framework)
+[![Framework Version](https://img.shields.io/badge/framework-v3.2-green)](https://github.com/TheWayWithin/mastery-ai-framework)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
-A comprehensive AI optimization assessment framework with 148 atomic factors across 8 strategic pillars. The MASTERY-AI Framework provides organizations with production-ready tools to assess, optimize, and improve their content and infrastructure for AI system discovery and performance.
+A comprehensive AI optimization assessment framework with 149 atomic factors across 8 strategic pillars, including critical AI bot access configuration. The MASTERY-AI Framework provides organizations with production-ready tools to assess, optimize, and improve their content and infrastructure for AI system discovery and performance.
 
 ## 🚀 Quick Start
 
@@ -50,16 +50,16 @@ The framework consists of 8 weighted pillars forming the MASTERY acronym:
 
 | Pillar | Name | Weight | Factors | Focus |
 |--------|------|--------|---------|-------|
-| **AI** | AI Response Optimization & Citation | 23.8% | 23 | Core AI system optimization, MCP integration |
-| **A** | Authority & Trust Signals | 17.9% | 15 | Credibility and trust indicators |
-| **M** | Machine Readability & Technical Infrastructure | 14.6% | 21 | Technical implementation, LLMs.txt support |
-| **S** | Semantic Content Quality | 13.9% | 22 | Content depth and semantic richness |
+| **AI** | AI Response Optimization & Citation | 23.7% | 23 | Core AI system optimization, MCP integration |
+| **A** | Authority & Trust Signals | 17.8% | 15 | Credibility and trust indicators |
+| **M** | Machine Readability & Technical Infrastructure | 15.0% | 22 | Technical implementation, LLMs.txt, robots.txt |
+| **S** | Semantic Content Quality | 13.8% | 22 | Content depth and semantic richness |
 | **E** | Engagement & User Experience | 10.9% | 19 | User experience signals |
 | **T** | Topical Expertise & Experience | 8.9% | 14 | Expertise demonstration |
 | **R** | Reference Networks & Citations | 5.9% | 19 | External validation |
-| **Y** | Yield Optimization & Freshness | 4.1% | 15 | Continuous optimization |
+| **Y** | Yield Optimization & Freshness | 4.0% | 15 | Continuous optimization |
 
-**Total**: 148 atomic factors | 100% combined weight
+**Total**: 149 atomic factors | 100% combined weight
 
 ## 🏗️ Architecture
 
@@ -71,8 +71,8 @@ mastery_ai/
 │   ├── schema.py
 │   └── scoring.py
 ├── pillars/             # Individual pillar implementations
-│   ├── ai_response.py   # AI optimization (23.8%)
-│   ├── authority.py     # Authority signals (17.9%)
+│   ├── ai_response.py   # AI optimization (23.7%)
+│   ├── authority.py     # Authority signals (17.8%)
 │   └── ...             # Other pillars
 ├── reporting/           # Report generation
 └── api/                # RESTful API
@@ -81,7 +81,8 @@ mastery_ai/
 ## 💡 Features
 
 ### Core Capabilities
-- ✅ **Comprehensive Assessment**: All 148 atomic factors evaluated
+- ✅ **Comprehensive Assessment**: All 149 atomic factors evaluated
+- ✅ **AI Bot Access Control**: Robots.txt configuration assessment
 - ✅ **Weighted Scoring**: Mathematically precise scoring (weights = 100%)
 - ✅ **Modular Architecture**: Use complete framework or individual pillars
 - ✅ **RESTful API**: Full API access to all capabilities
@@ -165,7 +166,13 @@ curl -X POST http://localhost:8000/assess \
 
 ## 📈 Framework Version History
 
-- **v3.1.1** (Current): Enhanced Content Accessibility Edition
+- **v3.2.0** (Current): AI Bot Access Control Edition
+  - Added AI Bot Access Configuration (M.5.3)
+  - Robots.txt allowlisting for OAI-SearchBot and GPTBot
+  - 149 total factors (+1 for bot access control)
+  - Rebalanced weights for enhanced Machine Readability
+
+- **v3.1.1**: Enhanced Content Accessibility Edition
   - Added LLMs.txt support (M.5 sub-pillar)
   - 148 total factors (+2 for content accessibility)
   - MCP protocol integration
@@ -249,7 +256,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Based on the MASTERY-AI Framework v3.1.1 specification
+- Based on the MASTERY-AI Framework v3.2 specification
 - Inspired by agent-11 repository patterns
 - Community contributors and testers
 

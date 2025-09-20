@@ -1,8 +1,8 @@
 ---
-title: "MASTERY-AI Framework v3.1.1 - Pillar S: Semantic Content Quality"
+title: "MASTERY-AI Framework v3.2 - Pillar S: Semantic Content Quality"
 author: "Jamie Watters"
-version: "3.1.1"
-date: "2025-07-03"
+version: "3.2.0"
+date: "2025-09-20"
 document_type: "framework"
 original_created_date: "2025-06-25"
 status: "draft"
@@ -17,7 +17,7 @@ description: "Comprehensive specification for Semantic Content Quality pillar wi
 # Pillar S: Semantic Content Quality
 ## Enhanced with Content Integrity Validation
 
-**Framework Weight**: 13.9% (Increased from 13% in v2.1)  
+**Framework Weight**: 13.8% (Adjusted from 13.9% in v3.1.1)  
 **Total Atomic Factors**: 22 factors across 5 sub-pillars  
 **Strategic Priority**: High - Essential content foundation for AI optimization
 

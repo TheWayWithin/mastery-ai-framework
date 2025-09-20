@@ -1,8 +1,8 @@
 ---
-title: "MASTERY-AI Framework v3.1.1 - Pillar Y: Yield Optimization & Performance Analytics"
+title: "MASTERY-AI Framework v3.2 - Pillar Y: Yield Optimization & Performance Analytics"
 author: "Jamie Watters"
-version: "3.1.1"
-date: "2025-07-03"
+version: "3.2.0"
+date: "2025-09-20"
 document_type: "framework"
 original_created_date: "2025-06-25"
 status: "draft"
@@ -17,7 +17,7 @@ description: "Comprehensive specification for Yield Optimization & Performance A
 # Pillar Y: Yield Optimization & Performance Analytics
 ## Enhanced with Advanced Analytics Integration
 
-**Framework Weight**: 4.1% (Increased from 3% in v2.1)  
+**Framework Weight**: 4.0% (Adjusted from 4.1% in v3.1.1)  
 **Total Atomic Factors**: 12 factors across 3 sub-pillars  
 **Strategic Priority**: Medium - Performance measurement and optimization
 

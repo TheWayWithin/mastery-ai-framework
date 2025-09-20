@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-The AI Mastery Framework Library represents a strategic initiative to transform the comprehensive AI Mastery Framework v3.1.1 into a production-ready, deployable library that organizations can seamlessly integrate into their applications and assessment workflows. Drawing inspiration from the successful agent-11 repository architecture, this library will provide developers and organizations with a robust, well-documented, and easily deployable solution for implementing AI optimization assessments and recommendations.
+The AI Mastery Framework Library represents a strategic initiative to transform the comprehensive AI Mastery Framework v3.2 into a production-ready, deployable library that organizations can seamlessly integrate into their applications and assessment workflows. Drawing inspiration from the successful agent-11 repository architecture, this library will provide developers and organizations with a robust, well-documented, and easily deployable solution for implementing AI optimization assessments and recommendations.
 
 The library addresses the critical market need for standardized AI optimization assessment tools that can be integrated into existing applications, SaaS platforms, and enterprise systems. By providing a comprehensive framework with clear deployment instructions, extensive documentation, and modular architecture, this library will enable rapid adoption of AI optimization best practices across diverse technical environments.
 
@@ -26,7 +26,7 @@ The AI Mastery Framework Library aims to achieve several critical strategic obje
 
 The library will serve as a bridge between theoretical AI optimization frameworks and practical implementation, enabling organizations of all sizes to conduct comprehensive assessments of their content, technical infrastructure, and AI optimization strategies. This democratization of AI optimization assessment capabilities will accelerate the adoption of best practices across the industry while providing measurable value to organizations seeking to improve their AI system performance.
 
-A secondary but equally important objective involves establishing a new standard for AI optimization assessment tools that combines academic rigor with practical usability. The library will incorporate the complete AI Mastery Framework v3.1.1 specifications, including all 148 atomic factors across 8 pillars, while presenting these capabilities through intuitive APIs and clear documentation that enables rapid integration into existing systems.
+A secondary but equally important objective involves establishing a new standard for AI optimization assessment tools that combines academic rigor with practical usability. The library will incorporate the complete AI Mastery Framework v3.2 specifications, including all 149 atomic factors across 8 pillars, with critical AI bot access configuration through robots.txt management, while presenting these capabilities through intuitive APIs and clear documentation that enables rapid integration into existing systems.
 
 The library will also serve as a foundation for building a community of AI optimization practitioners, providing not only the tools for assessment but also the educational resources, best practices, and collaborative frameworks necessary to advance the field of AI optimization. This community-building aspect will ensure the library's long-term sustainability and continuous improvement through user feedback and contributions.
 
@@ -70,7 +70,7 @@ The open-source approach and community-driven development model enables rapid in
 
 The AI Mastery Framework Library will implement a modular, scalable architecture that supports multiple deployment scenarios while maintaining consistency with the proven patterns demonstrated by the agent-11 repository. The architecture will consist of several core components that work together to provide comprehensive AI optimization assessment capabilities.
 
-The core assessment engine will implement all 148 atomic factors from the AI Mastery Framework v3.1.1, organized into the eight primary pillars: AI Response Optimization & Citation (AI), Authority & Trust Signals (A), Machine Readability & Technical Infrastructure (M), Semantic Content Quality (S), Engagement & User Experience (E), Topical Expertise (T), Reference Networks & Citation Optimization (R), and Yield Optimization & Performance Analytics (Y).
+The core assessment engine will implement all 149 atomic factors from the AI Mastery Framework v3.2, organized into the eight primary pillars: AI Response Optimization & Citation (AI), Authority & Trust Signals (A), Machine Readability & Technical Infrastructure (M) - now enhanced with AI bot access configuration including robots.txt management, Semantic Content Quality (S), Engagement & User Experience (E), Topical Expertise (T), Reference Networks & Citation Optimization (R), and Yield Optimization & Performance Analytics (Y).
 
 Each pillar will be implemented as a separate module with clearly defined interfaces, enabling organizations to implement the complete framework or focus on specific optimization areas based on their requirements. This modular approach ensures flexibility while maintaining the integrity of the overall framework assessment methodology.
 
@@ -78,7 +78,7 @@ The library will include a comprehensive configuration system that allows organi
 
 ### Core Components
 
-The Assessment Engine represents the heart of the library, implementing the complete AI Mastery Framework v3.1.1 specification with mathematical precision and validated algorithms. This engine will process input data through each of the 148 atomic factors, applying appropriate weighting schemes and generating comprehensive assessment scores and recommendations.
+The Assessment Engine represents the heart of the library, implementing the complete AI Mastery Framework v3.2 specification with mathematical precision and validated algorithms. This engine will process input data through each of the 149 atomic factors, including the critical AI bot access configuration that ensures AI crawlers can discover and index content, applying appropriate weighting schemes and generating comprehensive assessment scores and recommendations.
 
 The Data Collection Framework will provide standardized interfaces for gathering the information necessary to conduct comprehensive AI optimization assessments. This framework will support multiple data sources, including website crawling, API integrations, manual data entry, and automated monitoring systems. The framework will ensure data quality and consistency while providing clear guidance on data requirements for each assessment factor.
 

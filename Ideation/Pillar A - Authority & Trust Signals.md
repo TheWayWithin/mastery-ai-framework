@@ -1,8 +1,8 @@
 ---
-title: "MASTERY-AI Framework v3.1.1 - Pillar A: Authority & Trust Signals"
+title: "MASTERY-AI Framework v3.2 - Pillar A: Authority & Trust Signals"
 author: "Jamie Watters"
-version: "3.1.1"
-date: "2025-07-03"
+version: "3.2.0"
+date: "2025-09-20"
 document_type: "framework"
 original_created_date: "2025-06-25"
 status: "draft"
@@ -17,7 +17,7 @@ description: "Comprehensive specification for Authority & Trust Signals pillar f
 # Pillar A: Authority & Trust Signals
 ## Foundation for AI System Trust and Citation
 
-**Framework Weight**: 17.9% (Decreased from 19% in v2.1)  
+**Framework Weight**: 17.8% (Adjusted from 17.9% in v3.1.1)  
 **Total Atomic Factors**: 15 factors across 3 sub-pillars  
 **Strategic Priority**: High - Critical foundation for AI trust and citation
 
