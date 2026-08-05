@@ -18,7 +18,7 @@ description: "Comprehensive specification for Yield Optimization & Performance A
 ## Enhanced with Advanced Analytics Integration
 
 **Framework Weight**: 4.0% (Adjusted from 4.1% in v3.1.1)  
-**Total Atomic Factors**: 12 factors across 3 sub-pillars  
+**Total Atomic Factors**: 15 factors across 4 sub-pillars  
 **Strategic Priority**: Medium - Performance measurement and optimization
 
 ---
@@ -39,7 +39,7 @@ The pillar's philosophy operates on the principle that comprehensive yield optim
 
 The Yield Optimization & Performance Analytics pillar incorporates four comprehensive sub-pillars that address the complete spectrum of performance optimization and analytical excellence:
 
-### Sub-Pillar Weight Distribution (4.1% total pillar weight)
+### Sub-Pillar Weight Distribution (4.0% total pillar weight)
 
 | Sub-Pillar | Name | Weight | Factors | Focus Area |
 |------------|------|--------|---------|------------|
@@ -49,7 +49,7 @@ The Yield Optimization & Performance Analytics pillar incorporates four comprehe
 | **Y.4** | Continuous Improvement & Refinement | 5% (0.3% framework) | 2 | Ongoing optimization and performance enhancement |
 
 **Total Sub-Pillar Weights**: 100.0% (Mathematically Validated)  
-**Framework Weight Allocation**: 4.1% total framework weight
+**Framework Weight Allocation**: 4.0% total framework weight
 
 ---
 

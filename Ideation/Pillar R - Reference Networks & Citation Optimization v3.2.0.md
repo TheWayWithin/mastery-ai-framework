@@ -1,24 +1,24 @@
 ---
-title: "MASTERY-AI Framework v3.1.1 - Pillar R: Reference Networks & Citation Optimization"
+title: "MASTERY-AI Framework v3.2.0 - Pillar R: Reference Networks & Citation Optimization"
 author: "Jamie Watters"
-version: "3.1.1"
-date: "2025-07-03"
+version: "3.2.0"
+date: "2025-09-20"
 document_type: "framework"
 original_created_date: "2025-06-25"
 status: "draft"
 project: "mastery_framework"
 priority: "high"
 folder_path: "framework_development/"
-related_documents: ["mastery_ai_framework_v3_1_1_main.md"]
-tags: ["framework", "pillar", "references", "citations", "networks", "3.1.1"]
+related_documents: ["mastery_ai_framework_v3_2_main.md"]
+tags: ["framework", "pillar", "references", "citations", "networks", "3.2.0"]
 description: "Comprehensive specification for Reference Networks & Citation Optimization pillar focusing on citation quality and reference network development"
 ---
 
 # Pillar R: Reference Networks & Citation Optimization
 ## Enhanced with Dark Social Citation Tracking
 
-**Framework Weight**: 5.9% (Decreased from 7% in v2.1)  
-**Total Atomic Factors**: 12 factors across 3 sub-pillars  
+**Framework Weight**: 5.9% (No change from v3.1.1)  
+**Total Atomic Factors**: 19 factors across 3 sub-pillars  
 **Strategic Priority**: Medium - Citation network development and optimization
 
 ---

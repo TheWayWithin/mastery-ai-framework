@@ -39,7 +39,7 @@ The pillar's philosophy operates on the principle that comprehensive content qua
 
 The Semantic Content Quality pillar incorporates five comprehensive sub-pillars that address the complete spectrum of content quality and integrity requirements:
 
-### Sub-Pillar Weight Distribution (13.9% total pillar weight)
+### Sub-Pillar Weight Distribution (13.8% total pillar weight)
 
 | Sub-Pillar | Name | Weight | Factors | Focus Area |
 |------------|------|--------|---------|------------|
@@ -50,7 +50,7 @@ The Semantic Content Quality pillar incorporates five comprehensive sub-pillars 
 | **S.5** | **Content Integrity** | **9.1% (1.3% framework)** | **2** | **Synthetic content validation and provenance tracking** |
 
 **Total Sub-Pillar Weights**: 100.0% (Mathematically Validated)  
-**Framework Weight Allocation**: 13.9% total framework weight
+**Framework Weight Allocation**: 13.8% total framework weight
 
 ---
 

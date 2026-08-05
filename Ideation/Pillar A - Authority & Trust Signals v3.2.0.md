@@ -39,7 +39,7 @@ The enhanced pillar maintains its focus on proven authority building strategies 
 
 The Authority & Trust Signals pillar incorporates three comprehensive sub-pillars that address the complete spectrum of authority and trust signal optimization:
 
-### Sub-Pillar Weight Distribution (17.9% total pillar weight)
+### Sub-Pillar Weight Distribution (17.8% total pillar weight)
 
 | Sub-Pillar | Name | Weight | Factors | Focus Area |
 |------------|------|--------|---------|------------|
@@ -48,7 +48,7 @@ The Authority & Trust Signals pillar incorporates three comprehensive sub-pillar
 | **A.3** | Trust Signal Optimization | 20% (3.6% framework) | 4 | Transparency and reliability indicators |
 
 **Total Sub-Pillar Weights**: 100.0% (Mathematically Validated)  
-**Framework Weight Allocation**: 17.9% total framework weight
+**Framework Weight Allocation**: 17.8% total framework weight
 
 ---
 

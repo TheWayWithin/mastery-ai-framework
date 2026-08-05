@@ -1,6 +1,6 @@
 """
-MASTERY-AI Framework Schema v3.1.1
-Defines the complete framework structure with all 148 atomic factors across 8 pillars
+MASTERY-AI Framework Schema v3.2.0
+Defines the complete framework structure with all 149 atomic factors across 8 pillars
 """
 
 from typing import Dict, List, Optional
@@ -66,11 +66,11 @@ class Pillar(BaseModel):
 
 
 class FrameworkSchema(BaseModel):
-    """Complete MASTERY-AI Framework Schema v3.1.1"""
-    version: str = Field(default="3.1.1", description="Framework version")
+    """Complete MASTERY-AI Framework Schema v3.2.0"""
+    version: str = Field(default="3.2.0", description="Framework version")
     name: str = Field(default="MASTERY-AI Framework", description="Framework name")
-    edition: str = Field(default="Enhanced Content Accessibility Edition", description="Edition")
-    total_factors: int = Field(default=148, description="Total number of atomic factors")
+    edition: str = Field(default="AI Bot Access Control Edition", description="Edition")
+    total_factors: int = Field(default=149, description="Total number of atomic factors")
     pillars: Dict[PillarType, Pillar] = Field(..., description="Framework pillars")
     
     @validator('pillars')
@@ -92,34 +92,34 @@ class FrameworkSchema(BaseModel):
     
     @classmethod
     def get_default_schema(cls) -> "FrameworkSchema":
-        """Return the default MASTERY-AI Framework v3.1.1 schema"""
+        """Return the default MASTERY-AI Framework v3.2 schema"""
         return cls(
             pillars={
                 PillarType.AI: Pillar(
                     type=PillarType.AI,
                     name="AI Response Optimization & Citation",
-                    weight=23.8,
+                    weight=23.7,
                     factor_count=23,
                     sub_pillars=[]  # To be populated with actual factors
                 ),
                 PillarType.A: Pillar(
                     type=PillarType.A,
                     name="Authority & Trust Signals",
-                    weight=17.9,
+                    weight=17.8,
                     factor_count=15,
                     sub_pillars=[]
                 ),
                 PillarType.M: Pillar(
                     type=PillarType.M,
                     name="Machine Readability & Technical Infrastructure",
-                    weight=14.6,
-                    factor_count=21,  # Increased from 19 for LLMs.txt
+                    weight=15.0,
+                    factor_count=22,  # Increased from 21 for AI Bot Access Configuration
                     sub_pillars=[]
                 ),
                 PillarType.S: Pillar(
                     type=PillarType.S,
                     name="Semantic Content Quality",
-                    weight=13.9,
+                    weight=13.8,
                     factor_count=22,
                     sub_pillars=[]
                 ),
@@ -147,7 +147,7 @@ class FrameworkSchema(BaseModel):
                 PillarType.Y: Pillar(
                     type=PillarType.Y,
                     name="Yield Optimization & Freshness",
-                    weight=4.1,
+                    weight=4.0,
                     factor_count=15,
                     sub_pillars=[]
                 ),

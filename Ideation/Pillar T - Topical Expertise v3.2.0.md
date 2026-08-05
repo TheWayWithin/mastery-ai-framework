@@ -1,24 +1,24 @@
 ---
-title: "MASTERY-AI Framework v3.1.1 - Pillar T: Topical Expertise & Experience"
+title: "MASTERY-AI Framework v3.2.0 - Pillar T: Topical Expertise & Experience"
 author: "Jamie Watters"
-version: "3.1.1"
-date: "2025-07-03"
+version: "3.2.0"
+date: "2025-09-20"
 document_type: "framework"
 original_created_date: "2025-06-25"
 status: "draft"
 project: "mastery_framework"
 priority: "high"
 folder_path: "framework_development/"
-related_documents: ["mastery_ai_framework_v3_1_1_main.md"]
-tags: ["framework", "pillar", "expertise", "topical", "experience", "3.1.1"]
+related_documents: ["mastery_ai_framework_v3_2_main.md"]
+tags: ["framework", "pillar", "expertise", "topical", "experience", "3.2.0"]
 description: "Comprehensive specification for Topical Expertise & Experience pillar focusing on subject matter authority and practical experience"
 ---
 
 # Pillar T: Topical Expertise
 ## Subject Matter Authority and Knowledge Depth
 
-**Framework Weight**: 8.9% (Decreased from 10% in v2.1)  
-**Total Atomic Factors**: 15 factors across 3 sub-pillars  
+**Framework Weight**: 8.9% (No change from v3.1.1)  
+**Total Atomic Factors**: 14 factors across 3 sub-pillars  
 **Strategic Priority**: Medium - Subject matter expertise validation
 
 ---

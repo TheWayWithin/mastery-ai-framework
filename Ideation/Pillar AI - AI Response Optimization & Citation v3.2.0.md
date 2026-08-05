@@ -39,7 +39,7 @@ The pillar's philosophy operates on the principle that comprehensive AI optimiza
 
 The AI Response Optimization & Citation pillar incorporates five comprehensive sub-pillars that address the complete spectrum of AI optimization and integration requirements:
 
-### Sub-Pillar Weight Distribution (23.8% total pillar weight)
+### Sub-Pillar Weight Distribution (23.7% total pillar weight)
 
 | Sub-Pillar | Name | Weight | Factors | Focus Area |
 |------------|------|--------|---------|------------|
@@ -50,7 +50,7 @@ The AI Response Optimization & Citation pillar incorporates five comprehensive s
 | **AI.5** | Response Quality Enhancement | 11.4% (2.7% framework) | 4 | AI response accuracy and completeness |
 
 **Total Sub-Pillar Weights**: 100.0% (Mathematically Validated)  
-**Framework Weight Allocation**: 23.8% total framework weight
+**Framework Weight Allocation**: 23.7% total framework weight
 
 ---
 
