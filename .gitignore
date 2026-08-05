@@ -201,3 +201,10 @@ docker-compose.override.yml
 
 # Performance profiling
 *.prof
+# Machine litter, never source: agent-11 install backups, MCP status,
+# Playwright output. Kept out of git so real changes stay visible.
+*.backup-*
+.mcp-status.md
+.playwright-mcp/
+playwright-report/
+test-results/
