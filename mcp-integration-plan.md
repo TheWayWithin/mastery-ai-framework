@@ -71,7 +71,7 @@
 
 **Action Required**:
 ```bash
-# Token: sbp_c53e26663a7f13e0a43d3072c2703f3f594b37af
+# Token: sbp_REPLACE_ME
 # Project: ahatyjmgyrbuysnszlqp
 ```
 
